@@ -3,8 +3,8 @@ import { StackProvider, StackTheme } from "@stackframe/stack";
 import { stackServerApp } from "../stack";
 import localFont from "next/font/local";
 import "./globals.css";
-import Navbar from "@/components/ui/Navbar";
-import { ThemeProvider } from "@/components/ui/theme-provider";
+import Navbar from "@/components/Navbar";
+import { ThemeProvider } from "@/components/theme-provider";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",

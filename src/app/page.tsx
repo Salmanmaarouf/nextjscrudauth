@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import Hero from "@/components/ui/Hero";
+import Hero from "@/components/Hero";
 import Image from "next/image";
 
 
